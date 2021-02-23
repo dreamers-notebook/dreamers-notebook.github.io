@@ -36,7 +36,7 @@ export default class Right extends React.Component
             e(
                 'div', {className:'col-12 col-sm-5 vert-align'},
                 e(
-                    Photo,{path:'img/ultadanga_us.jpg', placeholder:'This Image', css:'imgfill pad round-1'}
+                    Photo,{path:'img/us_seven_kingdoms.jpg', placeholder:'This Image', css:'imgfill pad round-1'}
                 )
             )
         )
